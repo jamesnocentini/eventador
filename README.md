@@ -1,5 +1,5 @@
 # Generator-eventador
-[![Build Status](http://f.cl.ly/items/1n0Q3t250g3F1u3d160a/aventador.png)](https://travis-ci.org/Jamiltz/generator-eventador)
+[![Build Status](http://f.cl.ly/items/1H1G0P3p0f1G1n2t251t/aventador.png)](https://travis-ci.org/Jamiltz/generator-eventador)
 
 A generator for Yeoman. Get an event page online faster than the speed of light.
 
